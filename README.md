@@ -22,7 +22,7 @@ General concept: quick and dirty
 This is a little Windows Batch script that converts a media file or batch-processes a folder with media files and outputs an mp3 file - bitrate is VBR at 260kbs. Simply drag and drop a file and it will spit out an mp3 in the input folder.
 
 
-### Typical usage scenarios:
+### Typical Usage Scenarios:
 
 Example 1: You've just mixed some badass tracks and exported them as .WAV files, but you want to send them to your client as .MP3 files for the sake of time. 
 
