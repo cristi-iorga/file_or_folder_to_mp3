@@ -10,6 +10,8 @@ Input Mode: drag'n'drop
 
 Input format: *media file* (as far as ffmpeg supports it)
 
+Batch Processing (y/N): hell yeah!
+
 Output format: .mp3 @ 260VBR
 
 Output folder: same as input
