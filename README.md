@@ -26,8 +26,8 @@ This is a little Windows Batch script that converts a media file or batch-proces
 
 Example 1: You've just mixed some badass tracks and exported them as .WAV files, but you want to send them to your client as .MP3 files for the sake of time. 
 
-Example 2 :You've mixed a whole concert and split it up into individual pieces and you don't want to manually convert each of them into .MP3 in order to send them.
+Example 2: You've mixed a whole concert and split it up into individual tracks in your DAW and you don't want to manually convert each of them into .MP3 in order to send them.
 
-Example 3: You have a bunch of video files and you only need an audio. There's no way you're importing each one of them into a DAW or video editor. No way. That's gonna take for ever... 
+Example 3: You have a bunch of video files and you only need the audio. There's no way you're importing each one of them into a DAW or video editor. No way. That's gonna take for ever... 
 
 #### Enjoy!
