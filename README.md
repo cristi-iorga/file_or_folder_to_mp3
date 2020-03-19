@@ -6,7 +6,7 @@ Operating System: Windows
 
 Requirements: ffmpeg
 
-Input Mode: drag'n'drop
+Input Mode: drag'n'drop directly to the .bat file
 
 Input format: *media file* (as far as ffmpeg supports it)
 
